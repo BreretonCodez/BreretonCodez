@@ -19,5 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">What I'm Learning</h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=222" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Flutter-F7DF1E.svg?&style=for-the-badge&logo=flutter&logoColor=222" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-F7DF1E.svg?&style=for-the-badge&logo=dart&logoColor=222" alt="Dart"/>
+<img src="https://img.shields.io/badge/React-F7DF1E.svg?&style=for-the-badge&logo=react&logoColor=222" alt="React"/>
 
-<h3 align="center">What I'm Planning to Learn</h2>
+<h3 align="center">What I'm Planning to Learn</h3>
